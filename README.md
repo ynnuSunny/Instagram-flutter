@@ -1,16 +1,31 @@
 # instagram_flutter
 
-A new Flutter project.
+Instagram clone and Investigation from github public repository
 
-## Getting Started
+## Topics Covered
 
-This project is a starting point for a Flutter application.
+Dart: Basics (Variables, Datatypes, Control Flow, Loops, etc.), Error Handling, Functions, etc.
 
-A few resources to get you started if this is your first Flutter project:
+Flutter Architecture: Widgets, Widget Tree, BuildContext, State, etc.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Building UI with Widgets: Text, Image, Container, Row, Column, Stack, Padding, Center, Scaffold, and other basic widgets.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Stateful & Stateless Widgets.
+
+State Management: Using Provider 
+
+Hot Reload: Seeing changes live without restarting the app.
+
+User Interactions: Handling gestures (taps), text input, and buttons.
+
+Navigation: Routing between screens, push/pop, bottom navigation bars.
+
+Lists and Grids: Building dynamic lists with ListView, GridView
+
+Networking and Data Fetching: Fetching data from firebase firestore.
+
+Asynchronous Programming: Futures and async/await for handling asynchronous tasks.
+
+Packages and Dependencies: used third-party packages for additional features.
+
+Animations: Basic animations. for like button handle.
